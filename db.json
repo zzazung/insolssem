@@ -1,0 +1,30 @@
+{
+    "child_list":{
+        "result_code":"00",
+        "item_count":"2",
+        "item_list":[
+            {
+                "child_idx":"C00001",
+                "child_name":"이하윤",
+                "child_birthday":"20081101",
+                "child_photo_url":"https://static.talented.co.kr/user_data/jieun0917/title_image_area/e889e342-0dba-4e48-8a24-e4f3eefd39c2.jpeg",
+                "school_idx":"S00001",
+                "school_name":"국공립아메리칸타운어린이집",
+                "school_address":"인천광역시 연수구 송도과학로16번길 13-30",
+                "school_latitude":"37.380615",
+                "school_longitude":"126.661229"
+            },
+            {
+                "child_idx":"C00002",
+                "child_name":"조성현",
+                "child_birthday":"20120701",
+                "child_photo_url":"https://cdn.imweb.me/upload/S20200916fb94cd571140d/4908e5680b713.jpg",
+                "school_idx":"S00002",
+                "school_name":"국공립해모로월드뷰어린이집",
+                "school_address":"인천 연수구 송도과학로27번길 30",
+                "school_latitude":"37.38391056527513",
+                "school_longitude":"126.66459151973721"
+            }
+        ]
+    }
+}

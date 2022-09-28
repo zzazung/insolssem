@@ -60,5 +60,25 @@
                 "notice_new_flag":"Y"
             }
         ]
+    },
+    "usage_history":{
+        "result_code":"00",
+        "item_count":"3",
+        "item_list":[
+            {
+                "insol_idx":"00001",
+                "insol_date":"20210401090000",
+                "insol_price":"3500",
+                "insol_distance":"350",
+                "insol_stime":"090000",
+                "insol_etime":"091500",
+                "departure_address":"인천 연수구 송도과학로 32",
+                "arrival_address":"인천 연수구 송도과학로 32",
+                "child_name":"홍길동",
+                "ssem_idx":"",
+                "ssem_name":"",
+                "ssem_address":""
+            }
+        ]
     }
 }

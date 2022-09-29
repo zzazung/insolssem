@@ -80,5 +80,9 @@
                 "ssem_address":""
             }
         ]
+    },
+    "push":{
+        "result_code":"00",
+        "push_yn":"Y"
     }
 }

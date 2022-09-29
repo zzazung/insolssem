@@ -1,14 +1,14 @@
 {
-    "version":{
-        "A":{
+    "version":[
+        {
             "version_name":"1.0.1",
             "version_code":"2"
         },
-        "I":{
+        {
             "version_name":"1.0.1",
             "version_code":"2"
         }
-    },
+    ],
     "child_list":{
         "result_code":"00",
         "item_count":"2",

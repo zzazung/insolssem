@@ -82,7 +82,11 @@
         ]
     },
     "push":{
-        "result_code":"00",
-        "push_yn":"Y"
+        "header": {
+            "result_code":"00"
+        },
+        "body": {
+            "push_yn":"Y"
+        }
     }
 }

@@ -92,13 +92,5 @@
                 "ssem_address":""
             }
         ]
-    },
-    "push":{
-        "header": {
-            "result_code":"00"
-        },
-        "body": {
-            "push_yn":"Y"
-        }
     }
 }

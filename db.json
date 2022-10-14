@@ -66,64 +66,76 @@
         }
     },
     "school_list":{
-        "result_code":"00",
-        "item_count":"3",
-        "item_list":[
-            {
-                "school_idx":"S00001",
-                "school_name":"국공립아메리칸타운어린이집",
-                "school_address":"인천광역시 연수구 송도과학로16번길 13-30",
-                "school_latitude":"37.380615",
-                "school_longitude":"126.661229"
-            },
-            {
-                "school_idx":"S00002",
-                "school_name":"국공립해모로월드뷰어린이집",
-                "school_address":"인천 연수구 송도과학로27번길 30",
-                "school_latitude":"37.38391056527513",
-                "school_longitude":"126.66459151973721"
-            },
-            {
-                "school_idx":"S00003",
-                "school_name":"국공립캠퍼스타운어린이집",
-                "school_address":"인천 연수구 송도과학로27번길 55",
-                "school_latitude":"37.3883283",
-                "school_longitude":"126.6654682"
-            }
-        ]
+        "header": {
+            "result_code":"00"
+        },
+        "body": {
+            "item_count":"3",
+            "item_list":[
+                {
+                    "school_idx":"S00001",
+                    "school_name":"국공립아메리칸타운어린이집",
+                    "school_address":"인천광역시 연수구 송도과학로16번길 13-30",
+                    "school_latitude":"37.380615",
+                    "school_longitude":"126.661229"
+                },
+                {
+                    "school_idx":"S00002",
+                    "school_name":"국공립해모로월드뷰어린이집",
+                    "school_address":"인천 연수구 송도과학로27번길 30",
+                    "school_latitude":"37.38391056527513",
+                    "school_longitude":"126.66459151973721"
+                },
+                {
+                    "school_idx":"S00003",
+                    "school_name":"국공립캠퍼스타운어린이집",
+                    "school_address":"인천 연수구 송도과학로27번길 55",
+                    "school_latitude":"37.3883283",
+                    "school_longitude":"126.6654682"
+                }
+            ]
+        }
     },
     "notice_list":{
-        "result_code":"00",
-        "item_count":"3",
-        "item_list":[
-            {
-                "notice_idx":"N00001",
-                "notice_type":"공지",
-                "notice_title":"인솔쌤 운영정책 변경",
-                "notice_date":"20210208090000",
-                "notice_content":"안녕하세요 인쌤입니다.\n\n인솔쌤 서비스를 이용해 주시는 회원 여러분께 감사드리며, 운영정책 변경에 관해 안내 말씀 드립니다.\n\n\n\n변경될 운영정책 내용을 확인하시고 서비스 이용에 참고하시기 바랍니다. \n\n\n\n1. 변경 사항\n\n인솔쌤 서비스의 휴면정책이 일부 변경되었습니다.\n2. 변경 시기\n\n변경된 운영정책은 2021년 2월 15일부터 효력이 발생됩니다.\n\n\n\n감사합니다.",
-                "notice_new_flag":"Y"
-            }
-        ]
+        "header": {
+            "result_code":"00"
+        },
+        "body": {
+            "item_count":"1",
+            "item_list":[
+                {
+                    "notice_idx":"N00001",
+                    "notice_type":"공지",
+                    "notice_title":"인솔쌤 운영정책 변경",
+                    "notice_date":"20210208090000",
+                    "notice_content":"안녕하세요 인쌤입니다.\n\n인솔쌤 서비스를 이용해 주시는 회원 여러분께 감사드리며, 운영정책 변경에 관해 안내 말씀 드립니다.\n\n\n\n변경될 운영정책 내용을 확인하시고 서비스 이용에 참고하시기 바랍니다. \n\n\n\n1. 변경 사항\n\n인솔쌤 서비스의 휴면정책이 일부 변경되었습니다.\n2. 변경 시기\n\n변경된 운영정책은 2021년 2월 15일부터 효력이 발생됩니다.\n\n\n\n감사합니다.",
+                    "notice_new_flag":"Y"
+                }
+            ]
+        }
     },
-    "usage_history":{
-        "result_code":"00",
-        "item_count":"3",
-        "item_list":[
-            {
-                "insol_idx":"00001",
-                "insol_date":"20210401090000",
-                "insol_price":"3500",
-                "insol_distance":"350",
-                "insol_stime":"090000",
-                "insol_etime":"091500",
-                "departure_address":"인천 연수구 송도과학로 32",
-                "arrival_address":"인천 연수구 송도과학로 32",
-                "child_name":"홍길동",
-                "ssem_idx":"",
-                "ssem_name":"",
-                "ssem_address":""
-            }
-        ]
+    "usage_history": {
+        "header": {
+            "result_code":"00"
+        },
+        "body": {
+            "item_count":"1",
+            "item_list": [
+                {
+                    "insol_idx":"00001",
+                    "insol_date":"20210401090000",
+                    "insol_price":"3500",
+                    "insol_distance":"350",
+                    "insol_stime":"090000",
+                    "insol_etime":"091500",
+                    "departure_address":"인천 연수구 송도과학로 32",
+                    "arrival_address":"인천 연수구 송도과학로 32",
+                    "child_name":"홍길동",
+                    "ssem_idx":"",
+                    "ssem_name":"",
+                    "ssem_address":""
+                }
+            ]
+        }
     }
 }

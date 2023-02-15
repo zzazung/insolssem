@@ -27,7 +27,7 @@
             "result_msg":"success"
         },
         "body": {
-            "item_count":"3",
+            "item_count":"2",
             "item_list":[
                 {
                     "child_idx":"C00001",
@@ -50,17 +50,6 @@
                     "school_address":"인천 연수구 송도과학로27번길 30",
                     "school_latitude":"37.38391056527513",
                     "school_longitude":"126.66459151973721"
-                },
-                {
-                    "child_idx":"C00003",
-                    "child_name":"박시연",
-                    "child_birthday":"20160704",
-                    "child_photo_url":"https://github.com/zzazung/repo/blob/main/siyeon.JPG?raw=true",
-                    "school_idx":"S00003",
-                    "school_name":"국공립캠퍼스타운어린이집",
-                    "school_address":"인천 연수구 송도과학로27번길 55",
-                    "school_latitude":"37.3883283",
-                    "school_longitude":"126.6654682"
                 }
             ]
         }

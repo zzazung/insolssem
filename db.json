@@ -1,26 +1,4 @@
 {
-    "version":[
-        {
-            "id":1,
-            "header":{
-                "result_code":"00"
-            },
-            "body":{
-                "version_name":"1.0.1",
-                "version_code":"2"
-            }
-        },
-        {
-            "id":2,
-            "header":{
-                "result_code":"00"
-            },
-            "body":{
-                "version_name":"1.0.2",
-                "version_code":"3"
-            }
-        }
-    ],
     "child_list": {
         "header": {
             "result_code":"00",

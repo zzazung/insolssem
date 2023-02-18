@@ -126,5 +126,12 @@
                 }
             ]
         }
+    },
+    "baejung": {
+        "type":"baejung",
+        "insol_idx":"I00001",
+        "ssem_idx":"S00001",
+        "ssem_name":"박신혜",
+        "ssem_photo_url":"https://thumb.mt.co.kr/06/2020/06/2020062212118292233_1.jpg/dims/optimize/"
     }
 }

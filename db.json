@@ -1,4 +1,26 @@
 {
+    "version":[
+        {
+            "id":1,
+            "header":{
+                "result_code":"00"
+            },
+            "body":{
+                "version_name":"1.0.1",
+                "version_code":"2"
+            }
+        },
+        {
+            "id":2,
+            "header":{
+                "result_code":"00"
+            },
+            "body":{
+                "version_name":"1.0.2",
+                "version_code":"3"
+            }
+        }
+    ],
     "child_list": {
         "header": {
             "result_code":"00",
@@ -103,18 +125,6 @@
                     "ssem_address":""
                 }
             ]
-        }
-    },
-    "baejung": {
-        "header": {
-            "result_code":"00"
-        },
-        "body": {
-            "type":"baejung",
-            "insol_idx":"I00001",
-            "ssem_idx":"S00001",
-            "ssem_name":"박신혜",
-            "ssem_photo_url":"https://thumb.mt.co.kr/06/2020/06/2020062212118292233_1.jpg/dims/optimize/"
         }
     }
 }

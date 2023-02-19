@@ -126,37 +126,5 @@
                 }
             ]
         }
-    },
-    "baejung": {
-        "type":"baejung",
-        "insol_idx":"I00001",
-        "ssem_idx":"S00001",
-        "ssem_name":"박신혜",
-        "ssem_photo_url":"https://thumb.mt.co.kr/06/2020/06/2020062212118292233_1.jpg/dims/optimize/"
-    },
-    "insol": {
-        "result_code":"00",
-        "insol_state":"2",
-        "insol_distance":"300.137539",
-        "insol_time":"17",
-        "insol_price":"3000",
-        "child_idx":"C00002",
-        "departure_address":"인천광역시 연수구 송도과학로16번길 13-30",
-        "departure_name":"국공립아메리칸타운어린이집",
-        "departure_latitude":"37.380615",
-        "departure_longitude":"126.661229",
-        "arrival_address":"인천 연수구 송도과학로 32",
-        "arrival_name":"우리집",
-        "arrival_latitude":"37.381799",
-        "arrival_longitude":"126.662405",
-        "ssem_idx":"S00001",
-        "child_count":"1",
-        "child_list":[
-            {
-                "child_idx":"C00001",
-                "child_name":"이하윤",
-                "child_photo_url":"https://github.com/zzazung/repo/blob/main/hayun.jpeg?raw=true"
-            }
-        ]
     }
 }
